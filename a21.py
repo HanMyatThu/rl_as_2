@@ -16,7 +16,7 @@ from gymnasium.vector import SyncVectorEnv
 
 # ========= Config =========
 GAMMA = 0.99
-LEARNING_RATE = 1e-5
+LEARNING_RATE = 1e-3
 TOTAL_STEPS = 1_000_000
 NUM_REPEATS = 5
 NUM_ENVS = 64
