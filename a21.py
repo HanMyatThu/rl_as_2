@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  3 17:25:06 2025
-
-Author: 陈东杰
-"""
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
