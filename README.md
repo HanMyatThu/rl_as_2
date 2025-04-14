@@ -35,7 +35,7 @@ Folders name include lr is for learning rate ablation.
 
 ### Output
 
-You will see csv files for different process, REINFORCE, AC, A2C.
+You will see csv files for different process, REINFORCE, AC, A2C and a graph for comparison
 
 ### Notes
 
